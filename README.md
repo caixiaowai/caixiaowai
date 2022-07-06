@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @caixiaowai
 - 👀 I’m a server owner
 - 🌱 I’m studying now
-- 💞️ Thank to visit my own page
+- 💞️ Thanks to visit my own page
 - 📫 QQ：3282826400 Email：3282826400@qq.com
 
 <!---
