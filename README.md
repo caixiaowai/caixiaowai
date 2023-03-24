@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @caixiaowai
+# Heading level 1	 👋 Hi, I’m @caixiaowai
 - 👀 I’m a server owner
 - 🌱 I’m studying now
-- 💞️ Thanks to visit my own page
+- 💞️ Thanks for visiting my own page
 - 📫 QQ：3282826400 Email：3282826400@qq.com
 
 <!---
