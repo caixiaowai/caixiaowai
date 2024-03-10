@@ -1,7 +1,5 @@
 # 👋 Hi, I’m @caixiaowai
-- 👀 I’m a server owner
-- 🌱 I’m studying now
-- 💞️ Thanks for visiting my own page
+- 👀 I'm a student and i own some stuff in minecraft anticheat project.
 - 📫 QQ：3282826400 Email：3282826400@qq.com
 
 <!---
