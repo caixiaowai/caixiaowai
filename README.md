@@ -1,5 +1,5 @@
 # 👋 Hi, I’m @caixiaowai
-- 👀 I'm a student and i own some stuff in minecraft anticheat project.
+- 👀 A developer of Minecraft Skript/Anticheat
 - 📫 QQ：3282826400 Email：3282826400@qq.com
 
 <!---
